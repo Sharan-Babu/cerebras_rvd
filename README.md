@@ -1,2 +1,2 @@
 # Cerebras RVD
-Using Falcon LLM for Recursive Vector Disambiguation
+Using Cerebras Llama-3.1-70B LLM for Recursive Vector Disambiguation
