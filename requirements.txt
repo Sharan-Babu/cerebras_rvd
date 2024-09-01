@@ -1,0 +1,4 @@
+cerebras_cloud_sdk
+sentence-transformers
+scikit-learn
+numpy
